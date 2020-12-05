@@ -1,0 +1,2 @@
+# corepodspecs-modularization
+corepodspecs modularization
